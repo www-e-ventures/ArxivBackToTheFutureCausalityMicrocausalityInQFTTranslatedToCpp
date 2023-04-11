@@ -26,9 +26,13 @@ The other following paragraphs are also translated into C++
 Please start at main.cpp
 
 //translated to c++ by e.ventures
+
 //https://arxiv.org/pdf/2208.09014.pdf
+
 //https://e.ventures
+
 //the@e.ventures
+
 //Canada
 
 /ArxivPapers/BackToTheFutureCasualityTranslatedToCpp/5B-MicrocausalityInQFT/cmake-build-debug/5B_MicrocausalityInQFT
