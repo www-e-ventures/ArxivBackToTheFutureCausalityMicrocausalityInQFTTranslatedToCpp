@@ -14,3 +14,8 @@ public:
 };
 
 #endif // SCALAR_FIELD_H
+
+//https://e.ventures
+//the@e.ventures
+//Translated to C++ by e.ventures
+//Original paper: https://arxiv.org/pdf/2208.09014.pdf
